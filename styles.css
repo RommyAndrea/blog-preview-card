@@ -79,6 +79,7 @@ body {
     font-size: 0.875rem;
     font-weight: 500;
     color: hsl(0, 0%, 42%);
+    line-height: 1.5;
 }
 
 .author {
