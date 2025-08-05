@@ -5,11 +5,11 @@ This challenge helped me practice HTML & CSS fundamentals by building a simple, 
 
 ## 📸 Screenshot
 
-![Blog preview card challenge Screenshot](images/qr-code-component-screenshot.jpeg)
+![Blog preview card Screenshot](images/blog-preview-card-screenshot.jpeg)
 
 ## 🔗 Live site
 
-👉 [Click here to view the live site](https://rommyandrea.github.io/qr-code-component/)
+👉 [Click here to view the live site](https://rommyandrea.github.io/blog-preview-card/)
 
 ## 🛠️ Built with
 
