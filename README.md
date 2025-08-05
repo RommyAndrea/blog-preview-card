@@ -1,7 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is my solution to the [Blog preview card challenge on Frontend Mentor](hhttps://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).  
-This challenge helped me practice HTML & CSS fundamentals by building a simple, responsive component.
+This is my solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). This challenge helped me practice HTML & CSS fundamentals by building a simple, responsive component.
 
 ## 📸 Screenshot
 
